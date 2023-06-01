@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Assignment_MovieApp\Assignment_MovieApp\bin\Debug\Assignment_MovieApp.exe.config
+C:\Users\User\source\repos\Assignment_MovieApp\Assignment_MovieApp\bin\Debug\Assignment_MovieApp.exe
+C:\Users\User\source\repos\Assignment_MovieApp\Assignment_MovieApp\bin\Debug\Assignment_MovieApp.pdb
+C:\Users\User\source\repos\Assignment_MovieApp\Assignment_MovieApp\obj\Debug\Assignment_MovieApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Assignment_MovieApp\Assignment_MovieApp\obj\Debug\Assignment_MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Assignment_MovieApp\Assignment_MovieApp\obj\Debug\Assignment_MovieApp.exe
+C:\Users\User\source\repos\Assignment_MovieApp\Assignment_MovieApp\obj\Debug\Assignment_MovieApp.pdb
